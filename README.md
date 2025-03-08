@@ -38,3 +38,8 @@ if 0 <= decimal_number <= 255:
     print(f"十六進位: {hexadecimal}")
 else:
     print("請輸入一個有效的數字（0 到 255 之間）。")
+
+#示範用網站
+[test](https://colab.research.google.com/drive/1_zXRGYIPE_m9enuD-hWByfgM2Xw0vKn7?usp=drive_link)
+
+
